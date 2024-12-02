@@ -17,3 +17,5 @@ Imports:
     dplyr,
     lubridate,
     rlang
+URL: https://github.com/fabrferreira/defvalues
+BugReports: https://github.com/fabrferreira/defvalues/issues
