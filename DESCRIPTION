@@ -1,13 +1,12 @@
 Package: defvalues
-Title: Um pacote R para deflacionar valores monetários de forma fácil
+Title: An R package to easily deflate monetary values
 Version: 0.0.0.9000
 Authors@R: 
     person("Fabricio", "Ferreira", , "fabrferreiraecon@gmail.com", role = c("aut", "cre"))
 Description:
-    Deflacione valores monetários de forma fácila e rápida utilizando o pacote `defvalues`.
-    Este pacote envelopa a função `deflate()` do pacote `deflateBR`,
-    utilizando *non standard evaluation* (NSE) do `tidyverse`, 
-    que permite a otimização desta tarefa.
+    Deflate monetary values easily and quickly using the `defvalues` package.
+    This package wraps the `deflate()` function from `deflateBR` package, using
+    tidyverse's non standard evaluation (NSE) to optimize this task.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
